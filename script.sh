@@ -4,4 +4,4 @@ date
 echo "Hello World..."
 pwd
 echo "List of all hidden files...!!!"
-ll -al
+ls -a
